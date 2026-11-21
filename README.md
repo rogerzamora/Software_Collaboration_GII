@@ -1,4 +1,4 @@
-# Software Collaboration and GitHub Commits - Blog # 3
+# Software Collaboration and GitHub Commits - Blog 
 
 ## Summary
 This work built the data behind the Global Innovation Index (GII) indicator on GitHub commits per million population, and the blog post that presents it. The post, "Software Collaboration Hits 5 Billion GitHub Commits", was published on 30 April 2026 in the GII Innovation Insights blog, co-authored with Kevin Xu (GitHub), Davide Bonaglia and Lorena Rivera León. It shows that commits on public GitHub repositories rose from about 1.7 billion in 2019 to close to 5 billion in 2025, an average growth of close to 19% a year.
